@@ -38,5 +38,5 @@ mv linux-5.4.155 linux-5.4.155_qemu
 ./start.sh
 
 # 若创建新的虚拟机系统，修改mkimg.sh和start.sh
-
+```
 3） 至此KPDP部署完毕, host内可以保护虚拟机内系统的关键数据不被篡改。
